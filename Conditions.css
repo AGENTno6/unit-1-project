@@ -15,8 +15,14 @@ body{
 .row > div{
         background-color: rgba(0,0,0,0.1);
         color: black;
+        line-height: 15px;
 }
 
 .page-header{
     margin-top: -20px;
+}
+
+#more {
+    display: none;
+    
 }
