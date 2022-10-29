@@ -11,6 +11,29 @@ body{
     margin-top:-12px;
 }
 
+#page-title{
+    font-size:50px;
+    display:flex;
+    justify-content:center;
+    word-spacing: 2px;
+}
+
+#warning-title{
+    display:flex;
+    justify-content:center;
+    font-weight: bold;
+}
+
+.warning-info{
+    line-height: 21px;
+    font-size: 15px;
+}
+
+.warning-description{
+    display:flex;
+    justify-content:center;
+}
+
 .row > div{
         background-color: rgba(0,0,0,0.1);
         color: black;
@@ -20,6 +43,7 @@ body{
   text-align:center;
   color:black;
 }
+
 footer{
     padding-top: 5px;
     margin-top: 2px;
@@ -29,4 +53,8 @@ footer{
 }
 p {
    color: black;
+}
+
+#last-row{
+    margin-bottom: 35px;
 }
