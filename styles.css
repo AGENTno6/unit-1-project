@@ -63,4 +63,5 @@ footer{
 }
 .page-header{
     margin-top: -20px;
+    border-bottom: none;
 }

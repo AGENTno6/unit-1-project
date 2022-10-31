@@ -16,6 +16,7 @@ body{
     display:flex;
     justify-content:center;
     word-spacing: 2px;
+    color: black;
 }
 
 #warning-title{
@@ -48,7 +49,10 @@ footer{
     margin-top: 2px;
 }
 .page-header{
-    margin-top: -20px;
+    margin:0;
+    border-bottom: none;
+    padding:0; 
+    
 }
 p {
    color: black;
