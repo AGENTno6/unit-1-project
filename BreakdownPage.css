@@ -35,7 +35,6 @@ body{
 }
 
 .row > div{
-        background-color: rgba(0,0,0,0.1);
         color: black;
         line-height: 15px;
 }
